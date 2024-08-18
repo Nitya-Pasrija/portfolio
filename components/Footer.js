@@ -10,23 +10,23 @@ export default function Footer() {
     },
     {
       title: 'Twitter',
-      url: 'https://twitter.com/zenorocha',
+      url: 'https://x.com/nityapasrija',
       icon: 'ri-twitter-line',
     },
     {
       title: 'GitHub',
-      url: 'https://github.com/zenorocha',
+      url: 'https://github.com/Nitya-Pasrija',
       icon: 'ri-github-line',
     },
     {
       title: 'linkedin',
-      url: 'https://linkedin.com/in/zenorocha',
+      url: 'https://in.linkedin.com/in/nitya-pasrija',
       icon: 'ri-linkedin-line',
     },
     {
-      title: 'Instagram',
-      url: 'https://instagram.com/zenorocha',
-      icon: 'ri-instagram-line',
+      title: 'Notion',
+      url: 'https://nitya-analytics-portfolio.notion.site/Data-Analytics-Portfolio-ed295a403bfc44a5ba058ccf04ad744c',
+      icon: 'ri-bar-chart-grouped-line',
     },
   ]
 
